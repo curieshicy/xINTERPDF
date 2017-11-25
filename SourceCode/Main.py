@@ -70,45 +70,6 @@ class Overall_Look:
         self.pdf_model = tk.Toplevel(self.master)
         self.GUI = Structure_Solve(self.stru_sol)
 
-class Inter_PDF_study():
-    pass
-
-
-class PDF_model_fit():
-    def __init__(self, master):
-        self.master = master
-        self.master.title("Model fit to organic PDF")
-        self.master.configure(background = "grey91") #the color will be changed later
-        self.master.minsize(900, 650) # width + height
-        self.master.resizable(False, False)
-        
-        
-        ##define style in ttk##
-        self.style = ttk.Style()
-        self.style.configure('TFrame', background = 'grey91')
-        self.style.configure('TButton', background = 'grey91')
-        self.style.configure('TLabel', background = 'grey91', font = ('Arial', 18))
-        self.style.configure('Header.TLabel', font = ('Arial', 24, 'bold'))
-
-        ttk.Label(self.master, text = "To perform a fit to crystalline organic PDF, one needs to prepare a strcuture file for single molecule.\n"
-            "In addition, a crystal structure for compound is needed as input.", font = ("Arial", 16, "bold"), justify = CENTER).pack(side = TOP)
-        self.top_frame = ttk.Frame(self.master, padding = (30, 15))
-        self.top_frame.pack()
-
-        ttk.Label(self.top_frame, text = "Step 1, load structure files", justify = CENTER, font = ("Arial", 15, "bold")).grid(row = 0, column = 0, columnspan = 2, padx = 5, sticky = "sw")
-
-        ttk.Label(self.top_frame, text = "Load molecule structure", justify = CENTER, font = ("Arial", 15, "bold")).grid(row = 1, column = 0, columnspan = 2, padx = 5, sticky = "sw")
-
-        ttk.Button
-
-        ttk.Label(self.top_frame, text = "Load crystal structure", justify = CENTER, font = ("Arial", 15, "bold")).grid(row = 1, column = 6, columnspan = 2, padx = 5, sticky = "sw")
-
-
-
-
-class Structure_Solve():
-    pass
-
 def main():
     root = Tk()
     GUI = Overall_Look(root)
