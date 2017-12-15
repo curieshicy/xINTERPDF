@@ -5,7 +5,7 @@ A quick feel of the program is as follows.
 
 ### The Main Window
 
-<img width="986" alt="main" src="https://user-images.githubusercontent.com/8492535/33334474-9479beb4-d42f-11e7-9eea-2c79793cb522.png">
+![main](https://user-images.githubusercontent.com/8492535/34025426-7c3f4b96-e115-11e7-92db-0b2c5ea07f8b.png)
 
 ### The interface for study of intermolecular PDF
 
