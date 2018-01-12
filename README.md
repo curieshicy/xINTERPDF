@@ -13,7 +13,7 @@ A quick feel of the program is as follows.
 
 ### The window for visualization of intermolecular PDF 
 
-<img width="1017" alt="visual" src="https://user-images.githubusercontent.com/8492535/34025409-679943e0-e115-11e7-8745-b74655c15e5b.png">
+![fine_tune_parameters](https://user-images.githubusercontent.com/8492535/34894346-a20769b0-f7a6-11e7-97d8-65917edc79e5.png)
 
 ### The interface for PDF model fit of measured organic crystalline PDF
 
