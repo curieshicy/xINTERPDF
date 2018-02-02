@@ -1,5 +1,5 @@
 # xINTERPDF
-Python GUI program for modeling organic PDF data collected at synchrotron/neutron/lab sources.
+Python GUI program for modeling organic PDF data collected at synchrotron and laboratory X-ray sources.
 
 A quick feel of the program is as follows.
 
