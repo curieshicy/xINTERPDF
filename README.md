@@ -4,7 +4,7 @@ Python GUI program for modeling organic PDF data collected at synchrotron and la
 A quick view of the program is shown below.
 ### The Main Window
 
-![mainpage](https://user-images.githubusercontent.com/8492535/35756648-b07e8488-0831-11e8-932d-e2843a2888bf.png)
+<img width="977" alt="main" src="https://user-images.githubusercontent.com/8492535/35762628-89f81c6a-085f-11e8-9841-d87f83060de4.png">
 
 ### The interface for study of intermolecular PDF
 
