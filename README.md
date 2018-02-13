@@ -16,7 +16,7 @@ A quick view of the program is shown below.
 
 ### The interface for PDF model fit of measured organic crystalline PDF
 
-![fit](https://user-images.githubusercontent.com/8492535/35756646-b05562c4-0831-11e8-8fa1-1deaabda86c9.png)
+![screen shot 2018-02-13 at 11 07 39 am](https://user-images.githubusercontent.com/8492535/36172498-afd203dc-10cb-11e8-8514-1654050e5d32.png)
 
 
 
