@@ -18,6 +18,10 @@ A quick view of the program is shown below.
 
 ![screen shot 2018-02-13 at 11 07 39 am](https://user-images.githubusercontent.com/8492535/36172498-afd203dc-10cb-11e8-8514-1654050e5d32.png)
 
+### The interface for phase quantification
+
+![screen shot 2018-03-08 at 10 14 08 pm](https://user-images.githubusercontent.com/8492535/37220233-96a1391e-238b-11e8-9f0e-debbcc281a26.png)
+
 ## Manual
 
 A user guide for xINTERPDF can be found at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_0.1.0.pdf. It contains an overview of the program, a step-by-step installation guide, an explaination of techincal terms and a demonstration on two examples. The example files are available at https://github.com/curieshicy/xINTERPDF/tree/master/Examples. 
