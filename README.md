@@ -1,5 +1,5 @@
 # xINTERPDF
-Python GUI program for modeling organic PDF data collected at synchrotron and laboratory X-ray sources.
+Python GUI program for analyzing organic pair distribution function (PDF) data collected at synchrotron and laboratory X-ray sources.
 
 A quick view of the program is shown below.
 ### The Main Window
