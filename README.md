@@ -20,7 +20,7 @@ A quick view of the program is shown below.
 
 ### The interface for phase quantification
 
-![screen shot 2018-03-08 at 10 14 08 pm](https://user-images.githubusercontent.com/8492535/37220233-96a1391e-238b-11e8-9f0e-debbcc281a26.png)
+![screen shot 2018-04-04 at 4 01 20 pm](https://user-images.githubusercontent.com/8492535/38377317-432135ba-38c0-11e8-823f-12a84ffde7c5.png)
 
 ## Installation
 
