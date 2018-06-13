@@ -38,9 +38,9 @@ xINTERPDF can be installed on Linux and macOS computers. The easiest way to inst
 
 (1) Download Anaconda Distribution for macOS at https://www.anaconda.com/download/?lang=en-us#macos. Select Python 2.7 version to install.
 
-(2) Invoke a terminal, type <b>conda config --get channels</b> to check any channels that have been added. diffpy and xinterpdf are required. If you don’t see both, type <b>conda config --add channels diffpy</b> and <b>conda config --add channels xinterpdf</b> to add them.  
+(2) Invoke a terminal, type <b>conda config --get channels</b> to check any channels that have been added. diffpy is required. If you don’t see it, type <b>conda config --add channels diffpy</b> to add it.  
 
-(3) Type <b>conda create –c curieshicy –n xinterpdf xinterpdf</b> to install it.
+(3) Type <b>conda create –c curieshicy –n xinterpdf xinterpdf</b> to install the xINTERPDF program.
 
 (4) Once the installation is complete. Type <b>source activate xinterpdf</b> to start the virtual environment and <b>xinterpdf</b> to invoke the main window of xINTERPDF
 
