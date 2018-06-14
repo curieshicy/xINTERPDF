@@ -40,23 +40,23 @@ A quick view of the program is shown below.
 
 ## Installation
 
-(See also Slides 9-13 in User Guide available at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_0.1.0.pdf)
+(See also Slides 11-14 in User Guide available at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_20180614.pdf)
 
 xINTERPDF can be installed on Linux and macOS computers. The easiest way to install it is through <b>conda</b>. Here is an example of installing it on macOS 10.10.3. 
 
 (1) Download Anaconda Distribution for macOS at https://www.anaconda.com/download/?lang=en-us#macos. Select Python 2.7 version to install.
 
-(2) Invoke a terminal, type <b>conda config --get channels</b> to check any channels that have been added. diffpy is required. If you don’t see it, type <b>conda config --add channels diffpy</b> to add it.  
+(2) Invoke a terminal, type <b>conda config --get channels</b> to check any channels that have been added. <b>diffpy</b> is required. If you don’t see it, type <b>conda config --add channels diffpy</b> to add it.  
 
 (3) Type <b>conda create –c curieshicy –n xinterpdf xinterpdf</b> to install the xINTERPDF program.
 
 (4) Once the installation is complete. Type <b>source activate xinterpdf</b> to start the virtual environment and <b>xinterpdf</b> to invoke the main window of xINTERPDF
 
-(Alternatively) If conda install fails, one may download the raw files (Logo.gif and cli.py) at https://github.com/curieshicy/xINTERPDF/tree/master/Conda_Build_Recipe/xinterpdf. To start the program, in a terminal, navigate the folder where you put both files, and type <b>python cli.py</b> to invoke the main window. Make sure you have installed Diffpy-CMI and matplotlib (2.0.2). Follow http://www.diffpy.org/products/diffpycmi/index.html to install DiffPy-CMI. If you have conda, matplotlib can be installed by <b>conda install matplotlib=2.0.2</b>.  
+(Alternatively) If conda install fails, one may download the raw files (Logo.gif and cli.py) at https://github.com/curieshicy/xINTERPDF/tree/master/Conda_Build_Recipe/xinterpdf. To start the program, in a terminal, navigate to the folder where you put both files, and type <b>python cli.py</b> to invoke the main window. Make sure you have installed Diffpy-CMI, matplotlib (2.0.2) and Scikit-Learn (0.19.1). Follow http://www.diffpy.org/products/diffpycmi/index.html to install DiffPy-CMI. If you have conda, matplotlib can be installed by <b>conda install matplotlib=2.0.2</b>; Scikit-Learn can be installed by <b>conda install scikit-learn=0.19.1</b>  
 
 ## Manual
 
-A user guide for xINTERPDF can be found at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_0.1.0.pdf. It contains an overview of the program, a step-by-step installation guide, an explaination of techincal terms and a demonstration on three examples. The example files are available at https://github.com/curieshicy/xINTERPDF/tree/master/Examples. 
+A user guide for xINTERPDF can be found at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_20180614.pdf. It contains an overview of the program, a step-by-step installation guide, an explaination of techincal terms and a demonstration on three examples. The example files are available at https://github.com/curieshicy/xINTERPDF/tree/master/Examples. 
 
 ## Questions and suggestions
 
