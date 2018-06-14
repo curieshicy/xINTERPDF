@@ -32,7 +32,7 @@ A quick view of the program is shown below.
 
 ### The interface for phase quantification
 
-![screen shot 2018-04-04 at 4 01 20 pm](https://user-images.githubusercontent.com/8492535/38377317-432135ba-38c0-11e8-823f-12a84ffde7c5.png)
+![e4b](https://user-images.githubusercontent.com/8492535/41437457-2132cd0e-6fea-11e8-9e44-0400aa0f72bd.png)
 
 ### Generation of Score/Scree plots from Principle Component Analysis
 
