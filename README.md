@@ -12,7 +12,7 @@ If you like the program and use it in your own work, it would be appreciated if 
 A quick view of the program is shown below.
 ### The Main Window
 
-<img width="977" alt="main" src="https://user-images.githubusercontent.com/8492535/35762628-89f81c6a-085f-11e8-9841-d87f83060de4.png">
+![overview](https://user-images.githubusercontent.com/8492535/41437338-bbb61878-6fe9-11e8-9dca-3556858c97ed.png)
 
 ### The interface for study of intermolecular PDF
 
@@ -26,9 +26,17 @@ A quick view of the program is shown below.
 
 ![screen shot 2018-02-13 at 11 07 39 am](https://user-images.githubusercontent.com/8492535/36172498-afd203dc-10cb-11e8-8514-1654050e5d32.png)
 
+### A breakdown of the total fit to the organic crystalline PDF
+
+![e3a](https://user-images.githubusercontent.com/8492535/41437344-be14db18-6fe9-11e8-9df0-4793eda34031.png)
+
 ### The interface for phase quantification
 
 ![screen shot 2018-04-04 at 4 01 20 pm](https://user-images.githubusercontent.com/8492535/38377317-432135ba-38c0-11e8-823f-12a84ffde7c5.png)
+
+### Generation of Score/Scree plots from Principle Component Analysis
+
+![e5a](https://user-images.githubusercontent.com/8492535/41437348-c10cd4d8-6fe9-11e8-8261-2f6fbd832a6c.png)
 
 ## Installation
 
