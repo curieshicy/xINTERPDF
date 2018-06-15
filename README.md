@@ -43,7 +43,7 @@ A quick view of the program is shown below.
 
 ## Installation
 
-(See also Slides 11-14 in User Guide available at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_20180614.pdf)
+(See also Slides 11-14 in User Guide available at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_20180615.pdf)
 
 xINTERPDF can be installed on Linux and macOS computers. The easiest way to install it is through <b>conda</b>. Here is an example of installing it on macOS 10.10.3. 
 
