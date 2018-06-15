@@ -1,4 +1,7 @@
 # xINTERPDF 
+
+(A video demo about installation and usage is available at https://www.youtube.com/watch?v=lAFZ5VYEH1g).
+
 Python GUI program for analyzing organic pair distribution function (PDF) data collected at synchrotron and/or laboratory X-ray sources. It uses <b>DiffPy-CMI</b> (http://www.diffpy.org/products/diffpycmi/index.html) as a backend for simulation of PDFs. Currently it supports (1) The study of intermolecular interaction (e.g. hydrogen bonds) by subtracting out the scattering signal of single molecule(s) in real space. (2) The PDF model fit of the crystalline organic compound using the method proposed by Prill et al. (<i>J. Appl. Cryst.</i>, 48, 171-178, 2015.) (3) The phase quantification of physical mixtures of organics. (4) Generate Score/Scree plots based on Principle Component Analysis. 
 
 ## Citation
