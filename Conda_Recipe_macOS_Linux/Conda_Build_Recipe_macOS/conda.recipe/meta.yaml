@@ -19,12 +19,16 @@ requirements:
     - diffpy-cmi
     - matplotlib ==2.0.2
     - scikit-learn ==0.19.1
+    - scipy ==0.19.1
+    - numpy ==1.13.3
   run:
     - python 2.7*
     - setuptools
     - diffpy-cmi
     - matplotlib ==2.0.2
     - scikit-learn ==0.19.1
+    - scipy ==0.19.1
+    - numpy ==1.13.3
 about:
   home: http://www.diffpy.org/products/xinterpdf.html
   summary: a GUI program for analyzing X-ray PDF data for organic compounds
