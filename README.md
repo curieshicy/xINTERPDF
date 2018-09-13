@@ -60,7 +60,7 @@ xINTERPDF can be installed on Linux and macOS computers. The easiest way to inst
 
 ## Manual
 
-A user guide for xINTERPDF can be found at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_20180615.pdf. It contains an overview of the program, a step-by-step installation guide, an explaination of techincal terms and a demonstration on three examples. The example files are available at https://github.com/curieshicy/xINTERPDF/tree/master/Examples. 
+A user guide for xINTERPDF can be found at https://github.com/curieshicy/xINTERPDF/blob/master/xINTERPDF_User_Guide_20180615.pdf. It contains an overview of the program, a step-by-step installation guide, an explaination of techincal terms and a demonstration on five examples. The example files are available at https://github.com/curieshicy/xINTERPDF/tree/master/Examples. 
 
 ## Questions and suggestions
 
