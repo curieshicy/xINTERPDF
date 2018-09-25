@@ -12,7 +12,7 @@ Python GUI program for analyzing organic pair distribution function (PDF) data c
 
 If you like the program and use it in your own work, it would be appreciated if you cite the following papers.
 
-1. Chenyang Shi, “xINTERPDF: a GUI program for analyzing intermolecular pair distribution functions of organic compounds from X-ray total scattering data”, <i>J. Appl. Cryst.</i>, 51, 2018, 1498-1499. 
+1. Chenyang Shi, “xINTERPDF: a GUI program for analyzing intermolecular pair distribution functions of organic compounds from X-ray total scattering data”, <i>J. Appl. Cryst.</i>, 51, 2018, 1498-1499. (<a href = "http://scripts.iucr.org/cgi-bin/paper?S1600576718012359">Link</a>)
 
 2. Pavol Juhás, Christopher L. Farrow, Xiaohao Yang, Kevin R. Knox, and Simon J. L. Billinge, “Complex modeling: a strategy and software program for combining multiple information sources to solve ill posed structure and nanostructure inverse problems”, <i>Acta Crystallogr. A</i>, 71, 562-568, 2015. 
 
