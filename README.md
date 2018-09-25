@@ -4,7 +4,7 @@
 
 Python GUI program for analyzing organic pair distribution function (PDF) data collected at synchrotron and/or laboratory X-ray sources. It uses <b>DiffPy-CMI</b> (http://www.diffpy.org/products/diffpycmi/index.html) as a backend for simulation of PDFs. Currently it supports: 
 1. The study of intermolecular interaction (e.g. hydrogen bonds) by subtracting out the scattering signal of single molecule(s) in real space. 
-2. The PDF model fit of the crystalline organic compound using the method proposed by Prill et al. (<i>J. Appl. Cryst.</i>, 48, 171-178, 2015.)
+2. The PDF model fit of the crystalline organic compound using the method proposed by Prill et al. (<i>J. Appl. Cryst.</i>, <b>48</b>, 171-178, 2015.)
 3. The phase quantification of physical mixtures of organics.
 4. Generate Score/Scree plots based on Principle Component Analysis. 
 
@@ -12,9 +12,9 @@ Python GUI program for analyzing organic pair distribution function (PDF) data c
 
 If you like the program and use it in your own work, it would be appreciated if you cite the following papers.
 
-1. Chenyang Shi, “xINTERPDF: a GUI program for analyzing intermolecular pair distribution functions of organic compounds from X-ray total scattering data”, <i>J. Appl. Cryst.</i>, 51, 2018, 1498-1499. (<a href = "http://scripts.iucr.org/cgi-bin/paper?S1600576718012359">Link</a>)
+1. Chenyang Shi, “xINTERPDF: a GUI program for analyzing intermolecular pair distribution functions of organic compounds from X-ray total scattering data”, <i>J. Appl. Cryst.</i>, <b>51</b>, 1498-1499, 2018. (<a href = "http://scripts.iucr.org/cgi-bin/paper?S1600576718012359">Link</a>)
 
-2. Pavol Juhás, Christopher L. Farrow, Xiaohao Yang, Kevin R. Knox, and Simon J. L. Billinge, “Complex modeling: a strategy and software program for combining multiple information sources to solve ill posed structure and nanostructure inverse problems”, <i>Acta Crystallogr. A</i>, 71, 562-568, 2015. 
+2. Pavol Juhás, Christopher L. Farrow, Xiaohao Yang, Kevin R. Knox, and Simon J. L. Billinge, “Complex modeling: a strategy and software program for combining multiple information sources to solve ill posed structure and nanostructure inverse problems”, <i>Acta Crystallogr. A</i>, <b>71</b>, 562-568, 2015. 
 
 ## Overview
 A quick view of the program is shown below.
